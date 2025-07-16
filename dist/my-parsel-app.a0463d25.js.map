@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/app.js"],"sourcesContent":["var $e73bf42412feb220$exports = {};\nconsole.log('Hallo World!');\n\n\n//# sourceMappingURL=my-parsel-app.a0463d25.js.map\n","console.log('Hallo World!');\n"],"names":["console","log"],"version":3,"file":"my-parsel-app.a0463d25.js.map"}
